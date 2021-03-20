@@ -1,1 +1,1 @@
-# screepsPublic
+# screeps
